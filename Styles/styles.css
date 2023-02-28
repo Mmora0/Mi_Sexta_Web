@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(252, 224, 202);
+    background-image: url(https://cdn-icons-png.flaticon.com/512/76/76654.png);
+    background-repeat: no-repeat;
+    background-position: 80%;
+    margin-bottom: -20%;
+    background-size: -60%;
+
+
+}
+.body2{
+    background-color: rgb(248, 205, 173);
+    background-image: none;
+}
+
+
+h1{
+    font-family: 'Petit Formal Script', cursive;
+    display: flex;
+    justify-content: center;
+    color: black;
+    background-color: rgba(231, 245, 108, 0.466);
+    border-color: rgba(253, 128, 55, 0.301);
+    border-style: dotted;
+    text-decoration: underline;
+    text-decoration-color: rgb(252, 130, 59) ;
+    margin-left: 37%;
+    margin-right: 37%;
+}
+
+.saludo2{
+    font-family: 'Petit Formal Script', cursive;
+   
+}
+strong{
+    color: red;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+a{
+    display: flex;
+    justify-content: center;
+}
+
+.uno{
+    color: rgb(138, 138, 2);
+}
+
+.dos{
+    color: rgba(2, 2, 148, 0.979);
+}
+
+.tres{
+    color: rgb(182, 21, 21);
+}
+p{
+    color: blue;
+    font-family: 'Rock Salt', cursive;
+    text-decoration:line-through;
+    text-decoration-color: deeppink;
+    text-decoration-style: double;
+}
+
+th{
+    color: blueviolet;
+    background-color: rgba(132, 160, 95, 0.699);
+    font-size: larger;
+    font-family: 'Caveat Brush', cursive;
+}
+.esquinas{
+    background-color: rgba(113, 172, 37, 0.397);
+    color: chocolate;
+    font-size: larger;
+    font-family: 'Caveat Brush', cursive;
+}
+button{
+    color: violet;
+    background-color: yellow;
+    border-color: blue;
+}
+hr{
+    border-style: double;
+}
+li{
+    font-size: x-large;
+}
